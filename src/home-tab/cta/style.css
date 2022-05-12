@@ -1,0 +1,21 @@
+@import '../../constants/colors.css';
+@import '../../constants/fonts.css';
+
+.cta {
+    display: inline-block;
+
+    color: var(--darker-brown);
+
+    font-family: var(--ff-raleway);
+    font-size: var(--fs-normal);
+
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+
+    transition: all 0.5s ease-out;
+}
+
+.cta:hover {
+    transform: translateY(-8px);
+}

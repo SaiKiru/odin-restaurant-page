@@ -1,0 +1,16 @@
+#home-tab {
+    background: url('./img/bg.png');
+    background-position: 50%;
+}
+
+.hero {
+    position: absolute;
+    left: 72px;
+    top: 20%;
+}
+
+.cta {
+    position: absolute;
+    left: 65%;
+    top: 65%;
+}

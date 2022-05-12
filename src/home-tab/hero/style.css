@@ -1,0 +1,18 @@
+@import '../../constants/colors.css';
+@import '../../constants/fonts.css';
+
+.main-heading {
+    color: var(--darker-brown);
+
+    font-family: var(--ff-bebas-neue);
+    font-size: var(--fs-extra-large);
+
+    margin-bottom: 16px;
+}
+
+.sub-heading {
+    color: var(--darker-brown);
+
+    font-family: var(--ff-raleway);
+    font-size: var(--fs-normal);
+}

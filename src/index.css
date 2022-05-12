@@ -7,3 +7,12 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+.navigation-bar {
+    position: absolute;
+}
+
+.tab-page {
+    width: 100vw;
+    height: 100vh;
+}
