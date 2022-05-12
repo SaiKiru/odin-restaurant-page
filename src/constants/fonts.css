@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@400;500&display=swap');
+
+:root {
+    --ff-raleway: 'Raleway';
+    --ff-bebas-neue: 'Bebas Neue';
+
+    --fw-normal: 400;
+    --fw-medium: 500;
+
+    --fs-extra-large: 96px;
+    --fs-large: 64px;
+    --fs-normal: 32px;
+    --fs-small: 24px;
+}
