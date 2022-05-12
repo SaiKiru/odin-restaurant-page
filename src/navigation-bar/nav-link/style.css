@@ -1,0 +1,19 @@
+@import '../../constants/colors.css';
+@import '../../constants/fonts.css';
+
+.nav-link {
+    padding-inline: 12px;
+
+    color: var(--dark-brown);
+    font-weight: var(--fw-normal);
+    font-size: var(--fs-small);
+    font-family: var(--ff-bebas-neue);
+
+    border-bottom: 2px solid transparent;
+
+    cursor: pointer;
+}
+
+.nav-link.active {
+    border-color: unset;
+}
