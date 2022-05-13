@@ -1,0 +1,14 @@
+@import '../../constants/colors.css';
+@import '../../constants/fonts.css';
+
+#contact-us-hero.hero {
+    position: static;
+}
+
+#contact-us-hero .main-heading {
+    font-size: var(--fs-large);
+}
+
+#contact-us-hero .sub-heading {
+    font-size: var(--fs-normal);
+}

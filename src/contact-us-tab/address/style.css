@@ -1,0 +1,10 @@
+@import '../../constants/colors.css';
+@import '../../constants/fonts.css';
+
+.address-details {
+    color: var(--dark-brown);
+
+    font-family: var(--ff-raleway);
+    font-size: var(--fs-small);
+    text-align: right;
+}

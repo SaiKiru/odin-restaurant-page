@@ -1,0 +1,26 @@
+@import '../constants/colors.css';
+
+#contact-us-tab {
+    background-color: var(--lighter-brown);
+    background-attachment: fixed;
+}
+
+#contact-us-flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    gap: 92px;
+}
+
+#contact-us-flexbox .hero {
+    margin-bottom: 3rem;
+}
+
+#contact-us-flexbox .hero .sub-heading {
+    white-space: pre;
+}
+
+#contact-us-flexbox .photo-card {
+    transform: rotate(-3deg);
+}
