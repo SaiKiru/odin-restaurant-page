@@ -1,4 +1,5 @@
 #home-tab {
+    position: absolute;
     background: url('./img/bg.png');
     background-position: 50%;
 }
@@ -12,5 +13,5 @@
 .cta {
     position: absolute;
     left: 65%;
-    top: 65%;
+    bottom: 25%;
 }
