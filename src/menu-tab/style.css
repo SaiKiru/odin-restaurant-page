@@ -1,0 +1,37 @@
+@import '../constants/colors.css';
+@import '../constants/fonts.css';
+
+#menu-tab {
+  background-color: var(--lighter-brown);
+}
+
+#menu-table {
+  width: min(920px, 100%);
+
+  position: relative;
+  top: 160px;
+
+  margin-inline: auto;
+}
+
+.menu-table-row {
+  display: grid;
+  grid-template-columns: 1fr 0.8fr;
+
+  padding-block: 16px;
+}
+
+.menu-table-row .menu-table-row-coffee-name {
+  color: var(--dark-brown);
+  font-family: var(--ff-raleway);
+  font-size: var(--fs-normal);
+}
+
+.menu-table-row .menu-table-row-prices {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  color: var(--dark-brown);
+  font-family: var(--ff-bebas-neue);
+  font-size: var(--fs-normal);
+}

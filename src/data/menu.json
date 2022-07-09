@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Cappucino",
+    "prices": {
+      "small": 3.00,
+      "medium": 3.50,
+      "large": 4.00
+    }
+  },
+  {
+    "name": "Latte",
+    "prices": {
+      "small": 3.00,
+      "medium": 3.50,
+      "large": 4.00
+    }
+  },
+  {
+    "name": "Mocaccino",
+    "prices": {
+      "small": 3.50,
+      "medium": 4.00,
+      "large": 4.50
+    }
+  },
+  {
+    "name": "Doppio",
+    "prices": {
+      "small": 3.60,
+      "medium": 4.10,
+      "large": 4.60
+    }
+  },
+  {
+    "name": "Americano",
+    "prices": {
+      "small": 2.80,
+      "medium": 3.20,
+      "large": 3.50
+    }
+  },
+  {
+    "name": "Espresso",
+    "prices": {
+      "small": 3.40,
+      "medium": 3.85,
+      "large": 4.20
+    }
+  },
+  {
+    "name": "Irish Cream",
+    "prices": {
+      "small": 3.20,
+      "medium": 3.70,
+      "large": 4.10
+    }
+  },
+  {
+    "name": "Ice Latte",
+    "prices": {
+      "small": 3.00,
+      "medium": 3.50,
+      "large": 4.00
+    }
+  },
+  {
+    "name": "Glacé",
+    "prices": {
+      "small": 3.40,
+      "medium": 3.80,
+      "large": 4.20
+    }
+  },
+  {
+    "name": "Frappe",
+    "prices": {
+      "small": 3.20,
+      "medium": 3.70,
+      "large": 4.10
+    }
+  },
+  {
+    "name": "Raf",
+    "prices": {
+      "small": 2.80,
+      "medium": 3.20,
+      "large": 3.50
+    }
+  }
+]
