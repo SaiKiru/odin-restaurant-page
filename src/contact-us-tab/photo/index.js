@@ -1,9 +1,9 @@
 import './style.css';
 
 export default function PhotoCard(image) {
-  const photoCard = document.createElement('img');
+  const photoCard = new Image();
 
-  photoCard.setAttribute('src', image);
+  photoCard.src = image;
   photoCard.classList.add('photo-card');
 
   return photoCard;

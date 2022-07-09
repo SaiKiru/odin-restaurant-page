@@ -2,6 +2,7 @@ import Address from "./address";
 import Hero from "./hero";
 import PhotoCard from "./photo";
 import './style.css';
+import locationImg from './img/location.png';
 
 export default function ContactUsTab() {
   const contactUsTab = document.createElement('div');
@@ -20,7 +21,7 @@ export default function ContactUsTab() {
     "\n" +
     "\nSee you there!"
   );
-  const photoCard = PhotoCard('../src/contact-us-tab/img/location.png');
+  const photoCard = PhotoCard(locationImg);
 
   const flexbox = document.createElement('div');
   const flexboxLeft = document.createElement('div');
